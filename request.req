@@ -1,0 +1,1 @@
+{"methodname": "hashthis", "args": {"method":"sha224", "plaintext":"hello world"}}
